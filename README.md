@@ -67,6 +67,3 @@ Gameplay footage and screenshots will be added once the scenes and controls have
 - [GitHub](https://github.com/M-Abdullah11)
 - [LinkedIn](https://www.linkedin.com/in/muhammad-abdullah-083906415/)
 
-
-- [GitHub](https://github.com/M-Abdullah11)
-- [LinkedIn](https://www.linkedin.com/in/muhammad-abdullah-083906415/)
